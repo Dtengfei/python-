@@ -1,2 +1,4 @@
 1-1:pat='b[a|i|u]t$|h[a|i|u]t$'
 1-2:pat='([a-zA-Z]+)\s([a-zA-Z]+)'
+
+1-4:pat='^[a-zA-Z\_][a-zA-Z\d\_]*$'
